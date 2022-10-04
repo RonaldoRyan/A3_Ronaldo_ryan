@@ -1,0 +1,96 @@
+
+body{
+    background-color: rgb(21, 47, 30);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.img{
+   width: 100%;
+   border-style: double;
+   border-color: rgb(8, 250, 153);
+}
+
+
+
+header{
+    margin-bottom: 1%;
+}
+
+#logo2{
+    width: 35%;
+    margin-top:32%;
+    border-style: solid;
+    border-color: rgb(21, 47, 30);
+}
+
+#logo{
+    width: 150px;
+    height: 170px;
+    border-radius: 50%;
+    margin-left: 25%;
+    margin-top: 5%; 
+    border-style:  double;
+    border-color: rgb(61, 254, 180);
+ 
+
+}
+#logo2:hover{
+    width: 33%;
+    background-color: rgb(8, 250, 153);
+    border-style: outset;
+    border-color: black;
+}
+
+.main{
+    margin-top: 10%;
+}
+
+h1{
+    text-shadow: 7px 10px 8px rgb(8, 250, 153);
+    font-family: fantasy;
+    margin-left: 10%;
+    -webkit-text-stroke: 1px rgb(22, 184, 95);
+    
+
+}
+.title{
+    margin-top:10%;
+}
+h2{
+    text-shadow: 7px 10px 8px  rgb(15, 39, 22);
+}
+
+
+.box1{
+    border-style: outset;
+    background-color: rgba(61, 254, 180, 0.6);
+    
+}
+.box2{
+    border-style: outset;
+    background-color:  rgba(61, 254, 180, 0.6);
+;
+    
+}
+
+
+footer{
+    background-color: rgba(61, 254, 180, 0.6);
+    color: black;
+    position:relative;
+    bottom: 0%;
+    margin-top: 15%;
+    border-style: outset;
+
+}
+
+#name{
+    font-size: 25px;
+}
+
+.form-label{
+    color: green;
+    font-size: 20px;
+    -webkit-text-stroke: 1px wheat;
+}
+
